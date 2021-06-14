@@ -1,0 +1,7 @@
+1) Delivery_time -> Predict delivery time using sorting time 
+ANS= Model2 is the best fit for this model with correlation=0.8431 and RMSE=1.33
+2) Salary_hike -> Build a prediction model for Salary_hike
+ANS= Model3 is the best fit for this model with correlation=0.966 and RMSE=7213.23
+------------------------------------------------------------
+
+Build a simple linear regression model by performing EDA and do necessary transformations and select the best model using R or Python.
